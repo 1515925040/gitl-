@@ -10,5 +10,6 @@ public class P2 {
     public static void main(String[] args) {
 
         System.out.println("cccc");
+         System.out.println("服务器代码");
     }
 }
