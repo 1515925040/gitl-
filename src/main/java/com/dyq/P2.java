@@ -14,5 +14,6 @@ public class P2 {
 
         System.out.println("服务器第二次测试");
         System.out.println("本地修改");
+        System.out.println("本地修改2");
     }
 }
