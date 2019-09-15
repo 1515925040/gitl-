@@ -9,5 +9,6 @@ package com.dyq;
 public class C {
     public static void main(String[] args) {
         System.out.println("cece");
+        System.out.println("本地冲突大萨达");
     }
 }
